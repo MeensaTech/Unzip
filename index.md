@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Unzip Support Web page
 
-You can use the [editor on GitHub](https://github.com/MeensaTech/Unzip/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Unzip app is a zip file management tool. Unzip can extract ZIP, RAR, 7Z, TAR, GZIP and many other compressed files.
+Features:
+- Compress files into ZIP file.
+- Import photos and videos from Camera Roll. And Compress photos into ZIP file. including password protected.
+- Open and decompress compressed file formats: ZIP, RAR, 7zip, TAR, GZIP.
+- Open and view many document types: DOC, Excel, PPT, PDF, TXT, RTF, Pages, JPG, GIF, PNG - Play videos and audios: mp4,avi,mkv,wma,flv,mov,3gp,m4a,wav,wmv,rmvb
+- Multiple file transfer ways: 1. USB transfer (iTunes File Sharing, upload and download files) 2. WiFi transfer
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MeensaTech/Unzip/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+contact us: cuiling_shi@163.com
